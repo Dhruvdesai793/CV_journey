@@ -1,5 +1,5 @@
-#Outputs!
+# Outputs!
 
-![OnePiece](images/luff_edited.png)
+![OnePiece](images/luffy_edited.png)
 
 ![Color Identifier](images/color_identifier.png)
